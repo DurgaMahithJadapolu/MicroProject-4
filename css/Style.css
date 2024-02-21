@@ -1,0 +1,81 @@
+
+        .main{
+            width: fit-content;
+            height: auto;
+            margin: auto;
+            border: 5px solid blueviolet;
+            border-radius: 10px;
+            background-color:rgb(150, 139, 124)
+
+        }
+        input{
+            font-size: x-large;
+            background-color: skyblue;
+            padding: 21px;
+        }
+        #did,#mt,#dt,#sub
+        {
+            padding-left: 29px;
+        }
+        input[type="text"]{
+            
+            margin: 15px;
+            margin-left: 25px;
+            border: none;
+            border-radius: 5px;
+    background-color: antiquewhite;    
+   }
+   #calc
+   {
+    margin-bottom: 10px;
+   }
+   .cl1,.cl2,.cl3,.cl4
+   {
+  
+    margin: 5px 40px;
+   }
+   #equal
+   {
+    background-color: green;
+   }
+  
+
+   .mainbutton{
+    width:275px;
+    height: 50px;
+    /* padding-left: 4px; */
+
+    /* border: 2px solid blueviolet; */
+    margin: 5px 40px;
+   }
+#del,#reset,#off{
+    border-radius: 10px;
+    border: none;
+    color: white;
+    
+
+    padding: 9px;
+}
+.cl1{
+    
+    padding-left: 2px;
+}
+input{
+    border-radius: 5px;
+    border: none;
+}
+.cl4{
+    margin-bottom: 40px;
+}
+.center{
+    margin-left: 30px;
+}
+#off{
+    
+    background-color: red;
+    
+    
+}
+#del,#reset{
+    background-color: #647299;
+}
